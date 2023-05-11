@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "714958384044",
+    "project_id": "reactjs-3172d",
+    "storage_bucket": "reactjs-3172d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714958384044:android:101cf98b4d714ee6222809",
+        "android_client_info": {
+          "package_name": "com.products"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714958384044-cbf5vlpdcpmhcfnsd0j2uaptd783pad7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnvEsq0PQdKbYVdiFiRlhRyW6Wyx7o8Xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714958384044-cbf5vlpdcpmhcfnsd0j2uaptd783pad7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
